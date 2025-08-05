@@ -1,11 +1,11 @@
 
-# 🧬 RNA Structure & Ligand Analysis Toolkit
+# RNA Structure & Ligand Analysis Toolkit
 
 This toolkit provides a collection of automated Python scripts for RNA structure processing, sequence/ligand feature extraction, and batch analysis.
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 
 Install the core dependencies with:
 
@@ -39,7 +39,7 @@ For parallel processing, `joblib` is used.
 
 ---
 
-## ⛓️ Pipeline Overview
+## Pipeline Overview
 
 These tools can be combined for a full RNA-ligand structural workflow:
 1. **Split complex structures:** `split_rna.py`
